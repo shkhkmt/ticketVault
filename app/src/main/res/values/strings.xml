@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ticket Vault</string>
+    <string name="tvTickets">Number Of Tickets</string>
+    <string name="Prompt">Select Group</string>
+    <string name="Description">Concert Image</string>
+    <string name="btCost">FIND THE COST</string>
+    <string-array name="tvGroup">
+        <item>No Filter</item>
+        <item>The Brother Moves On</item>
+        <item>340ml</item>
+    </string-array>
+    <string name="tvTitle">"Ticket Vault "</string>
+</resources>
